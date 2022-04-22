@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #555;
+    font-size: 22px;
+    overflow-x: hidden;
+    max-width: 100%;
+}
+
+section{
+    padding: 0 20px;
+    max-width: 100%;
+    width: 1200px;
+    margin: 0 auto;
+    color: rgba(0,0,0,0);
+    --matrix: #fff;
+}
+
+h2{
+    margin: 30px 0;
+}
+
+div{
+    margin-top: 5px;
+}
